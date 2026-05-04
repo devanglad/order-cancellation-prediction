@@ -1,0 +1,13 @@
+Grocery Home Delivery (GHS) is a major part of our business at a Large Retail Company. GHS allows our customers to put together a shopping basket online, and have it delivered to their door for convenience. The team responsible for fulfilling these deliveries would like help from the Data Science Team to build a model to predict if any future orders are likely to be cancelled, so they can plan interventions for some customers, such as in-app or email reminders in advance of the delivery date. To help you, they have provided the following datasets:
+
+• df_train.csv (contains historical data for GHS orders)
+• f_predict.csv (contains data for future GHS orders).
+
+Part I – Exploratory Data Analysis
+Before building your model, with given the dataset, and the Order Fulfilment team would want to analyse it and raise any concerns you have about it. An analysis is performed on the data, giving explicit thought on how a working model is build.
+
+Part II – Building the model
+A model to predict is built which orders are likely to be cancelled, with key performance meterics
+
+Part III – Making predictions
+The predict dataset contains details of future orders. Using this and the fitted model, which orders are most likely to be cancelled are predicted and explain what recommendations you would give to the team that uses it. Finally, key outcomes is discussed with both technical and nontechnical stakeholders, and comments are provided to improve the current results.
